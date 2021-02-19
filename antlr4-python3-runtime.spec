@@ -4,7 +4,7 @@
 #
 Name     : antlr4-python3-runtime
 Version  : 4.8
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/56/02/789a0bddf9c9b31b14c3e79ec22b9656185a803dc31c15f006f9855ece0d/antlr4-python3-runtime-4.8.tar.gz
 Source0  : https://files.pythonhosted.org/packages/56/02/789a0bddf9c9b31b14c3e79ec22b9656185a803dc31c15f006f9855ece0d/antlr4-python3-runtime-4.8.tar.gz
 Summary  : ANTLR 4.8 runtime for Python 3.7
