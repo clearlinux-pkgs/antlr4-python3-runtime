@@ -4,7 +4,7 @@
 #
 Name     : antlr4-python3-runtime
 Version  : 4.9.3
-Release  : 19
+Release  : 20
 URL      : https://files.pythonhosted.org/packages/3e/38/7859ff46355f76f8d19459005ca000b6e7012f2f1ca597746cbcd1fbfe5e/antlr4-python3-runtime-4.9.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/3e/38/7859ff46355f76f8d19459005ca000b6e7012f2f1ca597746cbcd1fbfe5e/antlr4-python3-runtime-4.9.3.tar.gz
 Summary  : ANTLR 4.9.3 runtime for Python 3.7
