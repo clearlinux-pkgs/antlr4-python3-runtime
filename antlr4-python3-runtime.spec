@@ -4,11 +4,11 @@
 # Using build pattern: pyproject
 #
 Name     : antlr4-python3-runtime
-Version  : 4.13.0
-Release  : 25
-URL      : https://files.pythonhosted.org/packages/e3/fe/db1120682e306744a3cc3ae06fc26692d95da5b8432382d8e86140f0afc6/antlr4-python3-runtime-4.13.0.tar.gz
-Source0  : https://files.pythonhosted.org/packages/e3/fe/db1120682e306744a3cc3ae06fc26692d95da5b8432382d8e86140f0afc6/antlr4-python3-runtime-4.13.0.tar.gz
-Summary  : ANTLR 4.13.0 runtime for Python 3
+Version  : 4.13.1
+Release  : 26
+URL      : https://files.pythonhosted.org/packages/b6/00/7f1cab9b44518ca225a03f4493ac9294aab5935a7a28486ba91a20ea29cf/antlr4-python3-runtime-4.13.1.tar.gz
+Source0  : https://files.pythonhosted.org/packages/b6/00/7f1cab9b44518ca225a03f4493ac9294aab5935a7a28486ba91a20ea29cf/antlr4-python3-runtime-4.13.1.tar.gz
+Summary  : ANTLR 4.13.1 runtime for Python 3
 Group    : Development/Tools
 License  : BSD-3-Clause
 Requires: antlr4-python3-runtime-bin = %{version}-%{release}
@@ -54,10 +54,10 @@ python3 components for the antlr4-python3-runtime package.
 
 
 %prep
-%setup -q -n antlr4-python3-runtime-4.13.0
-cd %{_builddir}/antlr4-python3-runtime-4.13.0
+%setup -q -n antlr4-python3-runtime-4.13.1
+cd %{_builddir}/antlr4-python3-runtime-4.13.1
 pushd ..
-cp -a antlr4-python3-runtime-4.13.0 buildavx2
+cp -a antlr4-python3-runtime-4.13.1 buildavx2
 popd
 
 %build
@@ -65,7 +65,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1684700067
+export SOURCE_DATE_EPOCH=1693924581
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
