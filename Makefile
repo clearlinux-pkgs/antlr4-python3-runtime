@@ -1,5 +1,5 @@
 PKG_NAME := antlr4-python3-runtime
-URL = https://files.pythonhosted.org/packages/b6/00/7f1cab9b44518ca225a03f4493ac9294aab5935a7a28486ba91a20ea29cf/antlr4-python3-runtime-4.13.1.tar.gz
+URL = https://files.pythonhosted.org/packages/33/5f/2cdf6f7aca3b20d3f316e9f505292e1f256a32089bd702034c29ebde6242/antlr4_python3_runtime-4.13.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
