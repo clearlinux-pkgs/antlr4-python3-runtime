@@ -7,7 +7,7 @@
 #
 Name     : antlr4-python3-runtime
 Version  : 4.13.2
-Release  : 29
+Release  : 30
 URL      : https://files.pythonhosted.org/packages/33/5f/2cdf6f7aca3b20d3f316e9f505292e1f256a32089bd702034c29ebde6242/antlr4_python3_runtime-4.13.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/33/5f/2cdf6f7aca3b20d3f316e9f505292e1f256a32089bd702034c29ebde6242/antlr4_python3_runtime-4.13.2.tar.gz
 Summary  : ANTLR 4.13.2 runtime for Python 3
